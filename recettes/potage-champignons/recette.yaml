@@ -6,7 +6,7 @@ categorie: Soupe
 mots_cles: [maman, fiche manuscrite, potage, soupe, léger, champignons]
 portions:        # inconnu
 preparation:     # minutes, inconnu
-cuisson:         # minutes, inconnu
+cuisson: 30      # minutes (20 à 30 min)
 
 ingredients:
   - 125 g de champignons
@@ -15,21 +15,20 @@ ingredients:
   - 1 cube de bouillon de volaille
   - 25 g de lait écrémé en poudre
 
-# La fiche ne donne que les ingrédients : méthode proposée à la transcription, à confirmer
+# La fiche ne donne que les ingrédients : étapes rédigées à la transcription, méthode confirmée (mixé, 20 à 30 min)
 etapes:
   - Nettoyez et émincez les champignons. Lavez et coupez le céleri en tronçons (ou épluchez et coupez la pomme de terre en dés).
   - Portez l'eau à ébullition avec le cube de bouillon de volaille.
-  - Ajoutez les légumes et laissez cuire 20 min à feu doux, à couvert.
+  - Ajoutez les légumes et laissez cuire 20 à 30 min à feu doux, à couvert.
   - Hors du feu, ajoutez le lait en poudre et mixez jusqu'à obtenir un velouté lisse.
   - Goûtez et rectifiez l'assaisonnement si besoin (le cube est déjà salé).
 
 notes:
-  - "La fiche ne comporte que la liste des ingrédients : les étapes ont été proposées lors de la transcription."
+  - "La fiche ne comporte que la liste des ingrédients : les étapes ont été rédigées lors de la transcription, la méthode (mixé, 20 à 30 min de cuisson) a été confirmée."
   - "Le « ou » est souligné deux fois sur la fiche : céleri ou pomme de terre, au choix. Le céleri donne un potage plus léger, la pomme de terre un potage plus épais."
   - "Le lait écrémé en poudre apporte l'onctuosité d'un velouté sans crème."
 
 questions:
-  - Confirmer la méthode de préparation (mixé ? temps de cuisson ?).
   - Nombre de portions (probablement 2 bols).
 
 # à relire | à compléter | validée | testée

@@ -4,7 +4,7 @@ source: Fiche manuscrite transmise par Maman (recto, avec le potage aux champign
 description: Potage de tomates et carottes au basilic.
 categorie: Soupe
 mots_cles: [maman, fiche manuscrite, potage, soupe, tomates, carottes, basilic]
-portions:        # inconnu
+portions: 4 bols
 preparation:     # minutes, inconnu
 cuisson: 30      # minutes (20 à 30 min)
 
@@ -29,9 +29,8 @@ notes:
   - "Les pommes de terre remplacent une partie des carottes (le poids total de légumes reste le même) ; elles donnent un potage plus épais."
   - "Hors saison, des tomates pelées en conserve conviennent."
 
-questions:
-  - Nombre de portions (probablement 4 bols).
+questions: []
 
 # à relire | à compléter | validée | testée
-statut: à compléter
+statut: validée
 transcrit_le: 2026-11-01

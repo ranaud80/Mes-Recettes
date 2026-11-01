@@ -23,7 +23,7 @@
     },
     {
       "@type": "HowToStep",
-      "text": "Ajoutez les légumes et laissez cuire 20 min à feu doux, à couvert."
+      "text": "Ajoutez les légumes et laissez cuire 20 à 30 min à feu doux, à couvert."
     },
     {
       "@type": "HowToStep",
@@ -37,5 +37,6 @@
   "author": {
     "@type": "Person",
     "name": "Maman"
-  }
+  },
+  "cookTime": "PT30M"
 }

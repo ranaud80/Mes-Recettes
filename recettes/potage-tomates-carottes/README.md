@@ -2,7 +2,7 @@
 
 ![Illustration](illustration.svg)
 
-**Statut : À compléter** · Cuisson 30 min · Soupe
+**Statut : Validée** · Pour 4 bols · Cuisson 30 min · Soupe
 
 *Recette de Maman* — Fiche manuscrite transmise par Maman (recto, avec le potage aux champignons)
 
@@ -32,10 +32,6 @@ Potage de tomates et carottes au basilic.
 - La fiche ne comporte que la liste des ingrédients : les étapes ont été rédigées lors de la transcription, la méthode (mixé, 20 à 30 min de cuisson) a été confirmée.
 - Les pommes de terre remplacent une partie des carottes (le poids total de légumes reste le même) ; elles donnent un potage plus épais.
 - Hors saison, des tomates pelées en conserve conviennent.
-
-## À compléter
-
-- [ ] Nombre de portions (probablement 4 bols).
 
 ## Fiche d'origine
 

@@ -39,5 +39,6 @@
     "@type": "Person",
     "name": "Maman"
   },
+  "recipeYield": "4 bols",
   "cookTime": "PT30M"
 }

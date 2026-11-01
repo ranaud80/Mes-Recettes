@@ -25,15 +25,16 @@
     },
     {
       "@type": "HowToStep",
-      "text": "Mettez les légumes dans l'eau froide salée, portez à ébullition puis laissez cuire 30 min à feu doux."
+      "text": "Mettez les légumes dans l'eau froide salée, portez à ébullition puis laissez cuire 20 à 30 min à feu doux."
     },
     {
       "@type": "HowToStep",
-      "text": "Mixez ou servez tel quel, poivré."
+      "text": "Mixez, puis poivrez."
     }
   ],
   "author": {
     "@type": "Person",
     "name": "Maman"
-  }
+  },
+  "cookTime": "PT30M"
 }

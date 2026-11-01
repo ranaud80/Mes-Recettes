@@ -10,9 +10,9 @@ Recettes familiales et favorites, numérisées dans un format ouvert et durable,
 | Recette | Catégorie | Auteur | Statut | Reste à faire |
 |---|---|---|---|---|
 | [Gaufres (recette huile Lesieur)](recettes/gaufres-huile-lesieur/README.md) | Dessert | Maman | À compléter | 2 |
-| [Potage aux champignons](recettes/potage-champignons/README.md) | Soupe | Maman | À compléter | 2 |
-| [Potage d'hiver](recettes/potage-hiver/README.md) | Soupe | Maman | À compléter | 2 |
-| [Potage tomates-carottes](recettes/potage-tomates-carottes/README.md) | Soupe | Maman | À compléter | 1 |
+| [Potage aux champignons](recettes/potage-champignons/README.md) | Soupe | Maman | À compléter | 1 |
+| [Potage d'hiver](recettes/potage-hiver/README.md) | Soupe | Maman | À compléter | 1 |
+| [Potage tomates-carottes](recettes/potage-tomates-carottes/README.md) | Soupe | Maman | Validée | — |
 | [Welsh](recettes/welsh/README.md) | Plat | Maman | Validée | — |
 <!-- INDEX:FIN -->
 

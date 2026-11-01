@@ -2,7 +2,7 @@
 
 ![Illustration](illustration.svg)
 
-**Statut : À compléter** · Soupe
+**Statut : À compléter** · Cuisson 30 min · Soupe
 
 *Recette de Maman* — Fiche manuscrite transmise par Maman (recto, avec le potage tomates-carottes)
 
@@ -20,7 +20,7 @@ Potage léger aux champignons et céleri, lié au lait écrémé en poudre.
 
 1. Nettoyez et émincez les champignons. Lavez et coupez le céleri en tronçons (ou épluchez et coupez la pomme de terre en dés).
 2. Portez l'eau à ébullition avec le cube de bouillon de volaille.
-3. Ajoutez les légumes et laissez cuire 20 min à feu doux, à couvert.
+3. Ajoutez les légumes et laissez cuire 20 à 30 min à feu doux, à couvert.
 4. Hors du feu, ajoutez le lait en poudre et mixez jusqu'à obtenir un velouté lisse.
 5. Goûtez et rectifiez l'assaisonnement si besoin (le cube est déjà salé).
 
@@ -28,13 +28,12 @@ Potage léger aux champignons et céleri, lié au lait écrémé en poudre.
 
 *Précisions ajoutées lors de la transcription.*
 
-- La fiche ne comporte que la liste des ingrédients : les étapes ont été proposées lors de la transcription.
+- La fiche ne comporte que la liste des ingrédients : les étapes ont été rédigées lors de la transcription, la méthode (mixé, 20 à 30 min de cuisson) a été confirmée.
 - Le « ou » est souligné deux fois sur la fiche : céleri ou pomme de terre, au choix. Le céleri donne un potage plus léger, la pomme de terre un potage plus épais.
 - Le lait écrémé en poudre apporte l'onctuosité d'un velouté sans crème.
 
 ## À compléter
 
-- [ ] Confirmer la méthode de préparation (mixé ? temps de cuisson ?).
 - [ ] Nombre de portions (probablement 2 bols).
 
 ## Fiche d'origine
