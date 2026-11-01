@@ -24,7 +24,7 @@
     },
     {
       "@type": "HowToStep",
-      "text": "Ajoutez les légumes et laissez cuire 25 à 30 min à feu doux, jusqu'à ce que les carottes soient tendres."
+      "text": "Ajoutez les légumes et laissez cuire 20 à 30 min à feu doux, jusqu'à ce que les carottes soient tendres."
     },
     {
       "@type": "HowToStep",
@@ -38,5 +38,6 @@
   "author": {
     "@type": "Person",
     "name": "Maman"
-  }
+  },
+  "cookTime": "PT30M"
 }

@@ -6,7 +6,7 @@ categorie: Soupe
 mots_cles: [maman, fiche manuscrite, potage, soupe, tomates, carottes, basilic]
 portions:        # inconnu
 preparation:     # minutes, inconnu
-cuisson:         # minutes, inconnu
+cuisson: 30      # minutes (20 à 30 min)
 
 ingredients:
   - 300 g de tomates
@@ -16,21 +16,20 @@ ingredients:
   - Sel, poivre
   - Basilic
 
-# La fiche ne donne que les ingrédients : méthode proposée à la transcription, à confirmer
+# La fiche ne donne que les ingrédients : étapes rédigées à la transcription, méthode confirmée (mixé, 20 à 30 min)
 etapes:
   - Épluchez les carottes (et les pommes de terre si vous en remplacez une partie) et coupez-les en rondelles. Coupez les tomates en morceaux.
   - Portez l'eau à ébullition avec le cube de bouillon.
-  - Ajoutez les légumes et laissez cuire 25 à 30 min à feu doux, jusqu'à ce que les carottes soient tendres.
+  - Ajoutez les légumes et laissez cuire 20 à 30 min à feu doux, jusqu'à ce que les carottes soient tendres.
   - Mixez, salez et poivrez.
   - Ajoutez le basilic ciselé au moment de servir.
 
 notes:
-  - "La fiche ne comporte que la liste des ingrédients : les étapes ont été proposées lors de la transcription."
+  - "La fiche ne comporte que la liste des ingrédients : les étapes ont été rédigées lors de la transcription, la méthode (mixé, 20 à 30 min de cuisson) a été confirmée."
   - "Les pommes de terre remplacent une partie des carottes (le poids total de légumes reste le même) ; elles donnent un potage plus épais."
   - "Hors saison, des tomates pelées en conserve conviennent."
 
 questions:
-  - Confirmer la méthode de préparation (mixé ? temps de cuisson ?).
   - Nombre de portions (probablement 4 bols).
 
 # à relire | à compléter | validée | testée
