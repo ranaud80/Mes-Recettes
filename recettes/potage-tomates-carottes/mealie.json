@@ -7,7 +7,7 @@
   "keywords": "maman, fiche manuscrite, potage, soupe, tomates, carottes, basilic",
   "recipeIngredient": [
     "300 g de tomates",
-    "300 g de carottes (ou un peu de pommes de terre)",
+    "300 g de carottes (on peut en remplacer une partie par un peu de pommes de terre)",
     "1 litre d'eau",
     "1 cube de bouillon",
     "Sel, poivre",
@@ -16,7 +16,7 @@
   "recipeInstructions": [
     {
       "@type": "HowToStep",
-      "text": "Épluchez les carottes (et les pommes de terre le cas échéant) et coupez-les en rondelles. Coupez les tomates en morceaux."
+      "text": "Épluchez les carottes (et les pommes de terre si vous en remplacez une partie) et coupez-les en rondelles. Coupez les tomates en morceaux."
     },
     {
       "@type": "HowToStep",
