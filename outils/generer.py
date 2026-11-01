@@ -74,6 +74,8 @@ def schema_org(r):
     }
     if r.get("auteur"):
         d["author"] = {"@type": "Person", "name": r["auteur"]}
+    if est_url(r.get("source")):
+        d["isBasedOn"] = r["source"]
     if r.get("portions"):
         d["recipeYield"] = str(r["portions"])
     if minutes(r.get("preparation")):
@@ -83,6 +85,18 @@ def schema_org(r):
     if r.get("preparation") and r.get("cuisson"):
         d["totalTime"] = minutes(int(r["preparation"]) + int(r["cuisson"]))
     return d
+
+
+# ---------------------------------------------------------------- source
+def est_url(s):
+    return isinstance(s, str) and s.startswith(("http://", "https://"))
+
+
+def nom_source(r):
+    """Libellé de la source : `source_nom` si présent, sinon le domaine de l'URL."""
+    if r.get("source_nom"):
+        return r["source_nom"]
+    return r["source"].split("/")[2].removeprefix("www.")
 
 
 # ---------------------------------------------------------------- GitHub (Markdown)
@@ -107,8 +121,13 @@ def markdown(r):
     elif (d / "illustration.svg").exists():
         L += ["![Illustration](illustration.svg)", ""]
     L += [f"**Statut : {STATUTS[r['statut']][0]}** · " + " · ".join(meta_ligne(r)), ""]
-    if r.get("auteur"):
-        L += [f"*Recette de {r['auteur']}*" + (f" — {r['source']}" if r.get("source") else ""), ""]
+    if r.get("auteur") or r.get("source"):
+        if est_url(r.get("source")):
+            src = f"[{nom_source(r)}]({r['source']})"
+        else:
+            src = r.get("source") or ""
+        qui = f"Recette de {r['auteur']}" if r.get("auteur") else ""
+        L += ["*" + " — ".join(x for x in (qui, src) if x) + "*", ""]
     if r.get("description"):
         L += [r["description"], ""]
     L += ["## Ingrédients", ""] + [f"- {i}" for i in r["ingredients"]] + [""]
@@ -177,7 +196,12 @@ def page(r):
     src, alt = visuel(r)
     bloc_visuel = f'<div class="visuel"><img src="{src}" alt="{alt}"></div>' if src else ""
     meta = "".join(f"<span>{e(m)}</span>" for m in meta_ligne(r))
-    auteur = f'<p class="auteur">Recette de {e(r["auteur"])}</p>' if r.get("auteur") else ""
+    morceaux = []
+    if r.get("auteur"):
+        morceaux.append(f'Recette de {e(r["auteur"])}')
+    if est_url(r.get("source")):
+        morceaux.append(f'<a href="{e(r["source"])}" target="_blank" rel="noopener">{e(nom_source(r))}</a>')
+    auteur = f'<p class="auteur">{" — ".join(morceaux)}</p>' if morceaux else ""
     ing = "\n".join(f"<li>{e(i)}</li>" for i in r["ingredients"])
     eta = "\n".join(f"<li>{e(x)}</li>" for x in r["etapes"])
     notes = ""

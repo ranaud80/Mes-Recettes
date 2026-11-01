@@ -4,7 +4,7 @@
 
 **Statut : Validée** · Pour 4 bols · Cuisson 30 min · Soupe
 
-*Recette de Maman* — Fiche manuscrite transmise par Maman (recto, avec le potage aux champignons)
+*Recette de Maman — Fiche manuscrite transmise par Maman (recto, avec le potage aux champignons)*
 
 Potage de tomates et carottes au basilic.
 

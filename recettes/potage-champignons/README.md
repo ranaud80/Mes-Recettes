@@ -4,7 +4,7 @@
 
 **Statut : À compléter** · Cuisson 30 min · Soupe
 
-*Recette de Maman* — Fiche manuscrite transmise par Maman (recto, avec le potage tomates-carottes)
+*Recette de Maman — Fiche manuscrite transmise par Maman (recto, avec le potage tomates-carottes)*
 
 Potage léger aux champignons et céleri, lié au lait écrémé en poudre.
 

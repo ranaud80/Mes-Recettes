@@ -4,7 +4,7 @@
 
 **Statut : Validée** · Pour 4 personnes · Préparation 10 min · Cuisson 20 min · Plat
 
-*Recette de Maman* — Fiche manuscrite transmise par Maman
+*Recette de Maman — Fiche manuscrite transmise par Maman*
 
 Welsh gratiné au cheddar et à la bière blonde, sur pain de campagne et jambon, avec un œuf au plat.
 

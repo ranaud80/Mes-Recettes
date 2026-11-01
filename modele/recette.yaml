@@ -1,6 +1,7 @@
 nom: Nom de la recette
 auteur:            # ex. Maman
 source:            # ex. Fiche manuscrite transmise par Maman, ou URL, ou livre + page
+source_nom:        # pour une URL : nom du site affiché (sinon le domaine)
 description:
 categorie:         # Entrée | Plat | Dessert | Boisson | Base…
 mots_cles: []

@@ -4,7 +4,7 @@
 
 **Statut : À compléter** · Cuisson 30 min · Soupe
 
-*Recette de Maman* — Fiche manuscrite transmise par Maman (verso de la fiche des potages champignons et tomates-carottes)
+*Recette de Maman — Fiche manuscrite transmise par Maman (verso de la fiche des potages champignons et tomates-carottes)*
 
 Potage de légumes d'hiver : poireau, carotte, navet et céleri.
 

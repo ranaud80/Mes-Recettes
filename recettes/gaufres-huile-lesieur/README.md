@@ -4,7 +4,7 @@
 
 **Statut : À compléter** · Dessert
 
-*Recette de Maman* — Fiche manuscrite transmise par Maman
+*Recette de Maman — Fiche manuscrite transmise par Maman*
 
 Gaufres légères à base de pâte à choux, servies au sucre glace ou à la confiture.
 
