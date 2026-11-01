@@ -2,6 +2,8 @@
 
 Recettes familiales et favorites, numérisées dans un format ouvert et durable, compatibles avec [Mealie](https://mealie.io).
 
+**Consulter en ligne : https://ranaud80.github.io/Mes-Recettes/**
+
 ## Suivi des recettes
 
 <!-- INDEX:DEBUT -->
