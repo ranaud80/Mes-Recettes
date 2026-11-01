@@ -1,0 +1,40 @@
+nom: Gaufres (recette huile Lesieur)
+auteur: Maman
+source: Fiche manuscrite transmise par Maman
+description: Gaufres légères à base de pâte à choux, servies au sucre glace ou à la confiture.
+categorie: Dessert
+mots_cles: [maman, fiche manuscrite, gaufres, goûter]
+portions:        # inconnu
+preparation:     # minutes, inconnu
+cuisson:         # minutes, inconnu
+
+ingredients:
+  - 2 verres et demi de lait (verre à moutarde, soit environ 50 cl)
+  - 80 g d'huile Lesieur
+  - 160 g de farine
+  - 4 œufs
+  - 125 g de crème fraîche
+  - 1 pincée de sel fin
+  - Sucre glace et confiture, pour la dégustation
+
+etapes:
+  - Dans une casserole, faites chauffer 2 verres de lait (environ 40 cl) avec l'huile et le sel.
+  - Dès l'ébullition, ajoutez d'un coup la farine et remuez énergiquement à la spatule en bois jusqu'à ce que la pâte se détache des parois (principe de la pâte à choux).
+  - Hors du feu, incorporez les œufs un à un.
+  - Dans un saladier, battez la crème avec le reste du lait (le demi-verre, environ 10 cl), puis incorporez le tout à la pâte.
+  - Faites chauffer le gaufrier et faites cuire les gaufres.
+  - Servez-les saupoudrées de sucre glace ou accompagnées d'une confiture de votre choix.
+
+# Précisions ajoutées lors de la transcription (absentes de la fiche d'origine)
+notes:
+  - "Le lait s'utilise en deux fois : 2 verres dans la casserole, le demi-verre restant battu avec la crème."
+  - "« Verre » = verre à moutarde (environ 20 cl)."
+
+# Points encore ouverts : la recette reste « à compléter » tant que cette liste n'est pas vide
+questions:
+  - Noter le nombre de gaufres obtenues lors de la prochaine réalisation.
+  - Noter le temps de cuisson au gaufrier.
+
+# à relire | à compléter | validée | testée
+statut: à compléter
+transcrit_le: 2026-11-01

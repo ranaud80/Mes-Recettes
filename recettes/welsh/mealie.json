@@ -1,0 +1,67 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "name": "Welsh",
+  "description": "Welsh gratiné au cheddar et à la bière blonde, sur pain de campagne et jambon, avec un œuf au plat.",
+  "recipeCategory": "Plat",
+  "keywords": "maman, fiche manuscrite, fromage, Nord, bière",
+  "recipeIngredient": [
+    "800 g de cheddar (quantité à ajuster, voir notes)",
+    "4 tranches de pain de campagne",
+    "4 tranches de jambon blanc",
+    "2 c. à soupe de moutarde",
+    "16 cl de bière blonde",
+    "4 œufs",
+    "Poivre du moulin"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Préchauffez le four à 180 °C."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Dans des plats à gratin individuels ou un grand plat, disposez les tranches de pain de campagne."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Déposez une tranche de jambon sur chaque tranche de pain."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Râpez le cheddar et faites-le fondre dans une casserole en remuant sans cesse à l'aide d'une cuillère en bois."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Lorsque le fromage fondu nappe la cuillère, mouillez avec la bière blonde. Continuez à remuer pour obtenir une consistance homogène."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Ajoutez alors la moutarde, puis mélangez à nouveau."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Nappez les tranches de pain couvertes de jambon avec la préparation fromage/bière et enfournez pendant 10 min."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Pendant ce temps, faites cuire les œufs au plat (ou durs)."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "À la sortie du four, déposez les œufs sur le dessus du plat."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Servez avec un tour de moulin à poivre et un plat de frites, ou une salade verte à la vinaigrette."
+    }
+  ],
+  "author": {
+    "@type": "Person",
+    "name": "Maman"
+  },
+  "recipeYield": "4 personnes",
+  "prepTime": "PT10M",
+  "cookTime": "PT20M",
+  "totalTime": "PT30M"
+}

@@ -1,0 +1,43 @@
+nom: Welsh
+auteur: Maman
+source: Fiche manuscrite transmise par Maman
+description: Welsh gratiné au cheddar et à la bière blonde, sur pain de campagne et jambon, avec un œuf au plat.
+categorie: Plat
+mots_cles: [maman, fiche manuscrite, fromage, Nord, bière]
+portions: 4 personnes
+preparation: 10   # minutes
+cuisson: 20       # minutes
+
+ingredients:
+  - 800 g de cheddar (quantité à ajuster, voir notes)
+  - 4 tranches de pain de campagne
+  - 4 tranches de jambon blanc
+  - 2 c. à soupe de moutarde
+  - 16 cl de bière blonde
+  - 4 œufs
+  - Poivre du moulin
+
+etapes:
+  - Préchauffez le four à 180 °C.
+  - Dans des plats à gratin individuels ou un grand plat, disposez les tranches de pain de campagne.
+  - Déposez une tranche de jambon sur chaque tranche de pain.
+  - Râpez le cheddar et faites-le fondre dans une casserole en remuant sans cesse à l'aide d'une cuillère en bois.
+  - Lorsque le fromage fondu nappe la cuillère, mouillez avec la bière blonde. Continuez à remuer pour obtenir une consistance homogène.
+  - Ajoutez alors la moutarde, puis mélangez à nouveau.
+  - Nappez les tranches de pain couvertes de jambon avec la préparation fromage/bière et enfournez pendant 10 min.
+  - Pendant ce temps, faites cuire les œufs au plat (ou durs).
+  - À la sortie du four, déposez les œufs sur le dessus du plat.
+  - Servez avec un tour de moulin à poivre et un plat de frites, ou une salade verte à la vinaigrette.
+
+# Précisions ajoutées lors de la transcription (absentes de la fiche d'origine)
+notes:
+  - "Cheddar : la fiche d'origine indique « 800 g (?) ». C'est la quantité d'un welsh copieux servi en plat unique (environ 200 g par personne). Avec des frites ou pour des appétits plus modestes, 150 g par personne (600 g pour 4) suffisent. Le fromage doit couvrir généreusement le pain."
+  - "Choisir un cheddar affiné et le râper soi-même : le râpé en sachet contient de l'amidon et fond moins bien."
+  - "Si la préparation épaissit trop, ajouter un trait de bière ; si elle est trop liquide, un peu de cheddar."
+  - "La fiche indique « 4 tranches de pain » deux fois : 4 tranches retenues, une par personne."
+
+questions: []
+
+# à relire | à compléter | validée | testée
+statut: validée
+transcrit_le: 2026-11-01

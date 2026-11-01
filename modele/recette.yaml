@@ -1,0 +1,25 @@
+nom: Nom de la recette
+auteur:            # ex. Maman
+source:            # ex. Fiche manuscrite transmise par Maman, ou URL, ou livre + page
+description:
+categorie:         # Entrée | Plat | Dessert | Boisson | Base…
+mots_cles: []
+portions:          # ex. 4 personnes
+preparation:       # minutes
+cuisson:           # minutes
+
+ingredients:
+  -
+
+etapes:
+  -
+
+# Précisions ajoutées lors de la transcription (absentes de la source)
+notes: []
+
+# Points ouverts
+questions: []
+
+# à relire | à compléter | validée | testée
+statut: à relire
+transcrit_le:

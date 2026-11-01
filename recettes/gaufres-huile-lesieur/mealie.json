@@ -1,0 +1,47 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "name": "Gaufres (recette huile Lesieur)",
+  "description": "Gaufres légères à base de pâte à choux, servies au sucre glace ou à la confiture.",
+  "recipeCategory": "Dessert",
+  "keywords": "maman, fiche manuscrite, gaufres, goûter",
+  "recipeIngredient": [
+    "2 verres et demi de lait (verre à moutarde, soit environ 50 cl)",
+    "80 g d'huile Lesieur",
+    "160 g de farine",
+    "4 œufs",
+    "125 g de crème fraîche",
+    "1 pincée de sel fin",
+    "Sucre glace et confiture, pour la dégustation"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Dans une casserole, faites chauffer 2 verres de lait (environ 40 cl) avec l'huile et le sel."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Dès l'ébullition, ajoutez d'un coup la farine et remuez énergiquement à la spatule en bois jusqu'à ce que la pâte se détache des parois (principe de la pâte à choux)."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Hors du feu, incorporez les œufs un à un."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Dans un saladier, battez la crème avec le reste du lait (le demi-verre, environ 10 cl), puis incorporez le tout à la pâte."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Faites chauffer le gaufrier et faites cuire les gaufres."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Servez-les saupoudrées de sucre glace ou accompagnées d'une confiture de votre choix."
+    }
+  ],
+  "author": {
+    "@type": "Person",
+    "name": "Maman"
+  }
+}
