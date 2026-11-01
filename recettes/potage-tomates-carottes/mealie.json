@@ -1,0 +1,42 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "name": "Potage tomates-carottes",
+  "description": "Potage de tomates et carottes au basilic.",
+  "recipeCategory": "Soupe",
+  "keywords": "maman, fiche manuscrite, potage, soupe, tomates, carottes, basilic",
+  "recipeIngredient": [
+    "300 g de tomates",
+    "300 g de carottes (ou un peu de pommes de terre)",
+    "1 litre d'eau",
+    "1 cube de bouillon",
+    "Sel, poivre",
+    "Basilic"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Épluchez les carottes (et les pommes de terre le cas échéant) et coupez-les en rondelles. Coupez les tomates en morceaux."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Portez l'eau à ébullition avec le cube de bouillon."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Ajoutez les légumes et laissez cuire 25 à 30 min à feu doux, jusqu'à ce que les carottes soient tendres."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Mixez, salez et poivrez."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Ajoutez le basilic ciselé au moment de servir."
+    }
+  ],
+  "author": {
+    "@type": "Person",
+    "name": "Maman"
+  }
+}

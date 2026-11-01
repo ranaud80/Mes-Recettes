@@ -1,0 +1,41 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "name": "Potage aux champignons",
+  "description": "Potage léger aux champignons et céleri, lié au lait écrémé en poudre.",
+  "recipeCategory": "Soupe",
+  "keywords": "maman, fiche manuscrite, potage, soupe, léger, champignons",
+  "recipeIngredient": [
+    "125 g de champignons",
+    "125 g de céleri en branches, ou 1 pomme de terre",
+    "1/2 litre d'eau (50 cl)",
+    "1 cube de bouillon de volaille",
+    "25 g de lait écrémé en poudre"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Nettoyez et émincez les champignons. Lavez et coupez le céleri en tronçons (ou épluchez et coupez la pomme de terre en dés)."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Portez l'eau à ébullition avec le cube de bouillon de volaille."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Ajoutez les légumes et laissez cuire 20 min à feu doux, à couvert."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Hors du feu, ajoutez le lait en poudre et mixez jusqu'à obtenir un velouté lisse."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Goûtez et rectifiez l'assaisonnement si besoin (le cube est déjà salé)."
+    }
+  ],
+  "author": {
+    "@type": "Person",
+    "name": "Maman"
+  }
+}

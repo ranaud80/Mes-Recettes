@@ -1,0 +1,39 @@
+nom: Potage tomates-carottes
+auteur: Maman
+source: Fiche manuscrite transmise par Maman (recto, avec le potage aux champignons)
+description: Potage de tomates et carottes au basilic.
+categorie: Soupe
+mots_cles: [maman, fiche manuscrite, potage, soupe, tomates, carottes, basilic]
+portions:        # inconnu
+preparation:     # minutes, inconnu
+cuisson:         # minutes, inconnu
+
+ingredients:
+  - 300 g de tomates
+  - 300 g de carottes (ou un peu de pommes de terre)
+  - 1 litre d'eau
+  - 1 cube de bouillon
+  - Sel, poivre
+  - Basilic
+
+# La fiche ne donne que les ingrédients : méthode proposée à la transcription, à confirmer
+etapes:
+  - Épluchez les carottes (et les pommes de terre le cas échéant) et coupez-les en rondelles. Coupez les tomates en morceaux.
+  - Portez l'eau à ébullition avec le cube de bouillon.
+  - Ajoutez les légumes et laissez cuire 25 à 30 min à feu doux, jusqu'à ce que les carottes soient tendres.
+  - Mixez, salez et poivrez.
+  - Ajoutez le basilic ciselé au moment de servir.
+
+notes:
+  - "La fiche ne comporte que la liste des ingrédients : les étapes ont été proposées lors de la transcription."
+  - "« Ou un peu de pommes de terre » : à remplacer en partie ou à ajouter aux carottes pour un potage plus épais (la fiche ne précise pas)."
+  - "Hors saison, des tomates pelées en conserve conviennent."
+
+questions:
+  - Confirmer la méthode de préparation (mixé ? temps de cuisson ?).
+  - Les pommes de terre remplacent-elles une partie des carottes ou s'ajoutent-elles ?
+  - Nombre de portions (probablement 4 bols).
+
+# à relire | à compléter | validée | testée
+statut: à compléter
+transcrit_le: 2026-11-01

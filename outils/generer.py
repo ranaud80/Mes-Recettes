@@ -39,7 +39,10 @@ ORDRE_STATUT = list(STATUTS)
 def charger():
     recettes = []
     for f in sorted(RECETTES.glob("*/recette.yaml")):
-        r = yaml.safe_load(f.read_text(encoding="utf-8"))
+        try:
+            r = yaml.safe_load(f.read_text(encoding="utf-8"))
+        except yaml.YAMLError as err:
+            raise SystemExit(f"{f}: YAML invalide (penser à mettre entre guillemets un texte contenant « : »)\n{err}")
         r["slug"] = f.parent.name
         r["dossier"] = f.parent
         r.setdefault("notes", [])

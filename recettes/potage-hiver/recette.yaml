@@ -1,0 +1,37 @@
+nom: Potage d'hiver
+auteur: Maman
+source: Fiche manuscrite transmise par Maman (verso de la fiche des potages champignons et tomates-carottes)
+description: "Potage de légumes d'hiver : poireau, carotte, navet et céleri."
+categorie: Soupe
+mots_cles: [maman, fiche manuscrite, potage, soupe, légumes d'hiver, poireaux]
+portions:        # inconnu
+preparation:     # minutes, inconnu
+cuisson:         # minutes, inconnu
+
+ingredients:
+  - 20 g d'oignons
+  - 60 g de poireaux
+  - 1 carotte
+  - 1 navet
+  - 2 branches de céleri
+  - 1/2 litre d'eau (50 cl)
+  - Sel, poivre
+
+# La fiche ne donne que les ingrédients : méthode proposée à la transcription, à confirmer
+etapes:
+  - Épluchez l'oignon, la carotte et le navet. Lavez soigneusement le poireau et le céleri.
+  - Émincez l'oignon et le poireau, coupez la carotte, le navet et le céleri en dés.
+  - Mettez les légumes dans l'eau froide salée, portez à ébullition puis laissez cuire 30 min à feu doux.
+  - Mixez ou servez tel quel, poivré.
+
+notes:
+  - "La fiche ne comporte que la liste des ingrédients : les étapes ont été proposées lors de la transcription."
+  - "Les quantités sont petites : la recette correspond sans doute à 1 ou 2 bols. Elle se double facilement."
+
+questions:
+  - Confirmer la méthode de préparation (mixé ou en morceaux ? temps de cuisson ?).
+  - Nombre de portions.
+
+# à relire | à compléter | validée | testée
+statut: à compléter
+transcrit_le: 2026-11-01
