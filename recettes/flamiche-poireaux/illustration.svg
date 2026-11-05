@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" width="800" height="500">
+  <title>Illustration : flamiche aux poireaux dorée, une part découpée</title>
+  <defs>
+    <radialGradient id="fond" cx="50%" cy="40%" r="75%">
+      <stop offset="0" stop-color="#f1efe4"/><stop offset="1" stop-color="#d9d6c3"/>
+    </radialGradient>
+    <radialGradient id="pate" cx="42%" cy="35%" r="70%">
+      <stop offset="0" stop-color="#f3c66e"/><stop offset=".7" stop-color="#d9993f"/><stop offset="1" stop-color="#b8742a"/>
+    </radialGradient>
+    <linearGradient id="moule" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#c8442f"/><stop offset="1" stop-color="#8f2a1c"/>
+    </linearGradient>
+    <filter id="ombre" x="-20%" y="-20%" width="140%" height="160%">
+      <feDropShadow dx="0" dy="12" stdDeviation="12" flood-color="#2f2a16" flood-opacity=".3"/>
+    </filter>
+  </defs>
+  <rect width="800" height="500" fill="url(#fond)"/>
+
+  <!-- poireaux en décor -->
+  <g transform="rotate(-14 660 120)">
+    <rect x="560" y="70" width="210" height="34" rx="17" fill="#f2f4e3"/>
+    <path d="M560 70 q-60 0 -120 -18 l0 22 q60 14 120 30 z" fill="#5f8f3a"/>
+    <path d="M560 87 q-70 6 -130 24" fill="none" stroke="#7fae4a" stroke-width="10" stroke-linecap="round"/>
+    <path d="M770 78 q14 9 0 18 M770 84 q20 6 0 12" stroke="#c9c3a8" stroke-width="2" fill="none"/>
+  </g>
+  <g transform="rotate(-6 680 170)">
+    <rect x="600" y="140" width="180" height="28" rx="14" fill="#eef1dc"/>
+    <path d="M600 140 q-50 -4 -100 -20 l0 18 q50 16 100 30 z" fill="#4e7d30"/>
+  </g>
+
+  <!-- moule (cocotte émaillée) -->
+  <g filter="url(#ombre)">
+    <ellipse cx="350" cy="300" rx="270" ry="150" fill="#6e1f14"/>
+    <ellipse cx="350" cy="288" rx="270" ry="150" fill="url(#moule)"/>
+  </g>
+  <ellipse cx="78" cy="288" rx="22" ry="34" fill="#a8341f"/>
+  <ellipse cx="622" cy="288" rx="22" ry="34" fill="#a8341f"/>
+  <ellipse cx="350" cy="282" rx="240" ry="128" fill="#7a2416"/>
+
+  <!-- tourte -->
+  <ellipse cx="350" cy="278" rx="232" ry="122" fill="#b8742a"/>
+  <ellipse cx="350" cy="270" rx="226" ry="116" fill="url(#pate)"/>
+  <!-- bord soudé -->
+  <ellipse cx="350" cy="270" rx="214" ry="106" fill="none" stroke="#c98535" stroke-width="10" stroke-dasharray="4 14" opacity=".8"/>
+  <!-- motif rayé au couteau -->
+  <g stroke="#a7631f" stroke-width="3" fill="none" opacity=".75">
+    <path d="M350 180 q-120 30 -170 95"/><path d="M350 180 q-70 40 -90 150"/>
+    <path d="M350 180 q0 60 0 168"/><path d="M350 180 q70 40 90 150"/>
+    <path d="M350 180 q120 30 170 95"/>
+  </g>
+  <circle cx="350" cy="182" r="8" fill="#a7631f"/>
+
+  <!-- part découpée : intérieur vert-crème -->
+  <path d="M350 270 L560 300 Q540 350 470 368 Z" fill="#7a2416"/>
+  <path d="M350 270 L556 300 L556 316 L350 286 Z" fill="#d9a752"/>
+  <path d="M350 286 L556 316 Q536 350 472 366 L350 286" fill="#e9e6b7"/>
+  <g fill="#8fb84f">
+    <circle cx="430" cy="306" r="6"/><circle cx="470" cy="318" r="5"/><circle cx="505" cy="330" r="6"/>
+    <circle cx="455" cy="336" r="4"/><circle cx="420" cy="322" r="4"/><circle cx="490" cy="346" r="4"/>
+  </g>
+
+  <!-- part servie -->
+  <g transform="translate(590 360)">
+    <ellipse cx="80" cy="70" rx="110" ry="40" fill="#ffffff" filter="url(#ombre)"/>
+    <path d="M20 60 L150 40 L110 90 Z" fill="#e9e6b7"/>
+    <path d="M20 52 L150 32 L150 42 L20 62 Z" fill="#d9993f"/>
+    <path d="M20 52 L150 32 L108 18 Z" fill="#e7b25a"/>
+    <g fill="#8fb84f"><circle cx="70" cy="62" r="4"/><circle cx="100" cy="60" r="4"/><circle cx="120" cy="52" r="3"/></g>
+  </g>
+</svg>

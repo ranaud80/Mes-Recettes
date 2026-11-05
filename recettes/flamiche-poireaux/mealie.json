@@ -1,0 +1,66 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "name": "Flamiche aux poireaux picarde",
+  "description": "Tourte picarde de deux pâtes feuilletées garnie d'une fondue de poireaux au beurre et à la crème.",
+  "recipeCategory": "Plat",
+  "keywords": "internet, Picardie, Nord, poireaux, tourte, feuilleté",
+  "recipeIngredient": [
+    "2 pâtes feuilletées (ou 600 g de pâte feuilletée maison)",
+    "4 poireaux (environ 500 g)",
+    "80 g de beurre (40 g + 40 g)",
+    "2 c. à soupe de crème fraîche",
+    "Sel, poivre (généreusement)",
+    "1 œuf battu avec un peu d'eau, pour dorer"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Lavez soigneusement les poireaux. Gardez le blanc et un peu du vert tendre, puis émincez-les finement."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Faites-les suer 5 min dans une poêle avec 40 g de beurre."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Ajoutez la crème fraîche et le reste du beurre, puis laissez fondre doucement à feu doux en remuant. Salez et poivrez généreusement."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Laissez refroidir la fondue, puis placez-la environ 30 min au réfrigérateur pour qu'elle ne détrempe pas la pâte."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Foncez un moule à tarte avec une pâte feuilletée et piquez le fond à la fourchette."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Étalez la fondue de poireaux froide sur le fond."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Couvrez avec la seconde pâte, comme pour une galette des rois, et soudez bien les bords des deux pâtes."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Dessinez un motif sur le dessus à la pointe du couteau et badigeonnez d'œuf battu."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Enfournez 10 min à 250 °C, puis baissez à 120 °C et poursuivez la cuisson 20 min."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Servez chaud avec une salade verte bien assaisonnée (mâche et/ou chicons)."
+    }
+  ],
+  "author": {
+    "@type": "Person",
+    "name": "Mme Seminet"
+  },
+  "isBasedOn": "https://www.maison-omignon.fr/flamiche-aux-poireaux-picarde/",
+  "prepTime": "PT20M",
+  "cookTime": "PT30M",
+  "totalTime": "PT50M"
+}

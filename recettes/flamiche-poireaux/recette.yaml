@@ -1,0 +1,43 @@
+nom: Flamiche aux poireaux picarde
+auteur: Mme Seminet
+source: https://www.maison-omignon.fr/flamiche-aux-poireaux-picarde/
+source_nom: "La Maison de l'Omignon (d'après « Aimer la cuisine de Picardie »)"
+description: Tourte picarde de deux pâtes feuilletées garnie d'une fondue de poireaux au beurre et à la crème.
+categorie: Plat
+mots_cles: [internet, Picardie, Nord, poireaux, tourte, feuilleté]
+portions:        # non précisé par la source
+preparation: 20  # minutes (hors refroidissement de la fondue)
+cuisson: 30      # minutes (10 min à 250 °C + 20 min à 120 °C)
+
+ingredients:
+  - 2 pâtes feuilletées (ou 600 g de pâte feuilletée maison)
+  - 4 poireaux (environ 500 g)
+  - 80 g de beurre (40 g + 40 g)
+  - 2 c. à soupe de crème fraîche
+  - Sel, poivre (généreusement)
+  - 1 œuf battu avec un peu d'eau, pour dorer
+
+# Étapes reformulées d'après la source
+etapes:
+  - Lavez soigneusement les poireaux. Gardez le blanc et un peu du vert tendre, puis émincez-les finement.
+  - Faites-les suer 5 min dans une poêle avec 40 g de beurre.
+  - Ajoutez la crème fraîche et le reste du beurre, puis laissez fondre doucement à feu doux en remuant. Salez et poivrez généreusement.
+  - Laissez refroidir la fondue, puis placez-la environ 30 min au réfrigérateur pour qu'elle ne détrempe pas la pâte.
+  - Foncez un moule à tarte avec une pâte feuilletée et piquez le fond à la fourchette.
+  - Étalez la fondue de poireaux froide sur le fond.
+  - Couvrez avec la seconde pâte, comme pour une galette des rois, et soudez bien les bords des deux pâtes.
+  - Dessinez un motif sur le dessus à la pointe du couteau et badigeonnez d'œuf battu.
+  - Enfournez 10 min à 250 °C, puis baissez à 120 °C et poursuivez la cuisson 20 min.
+  - Servez chaud avec une salade verte bien assaisonnée (mâche et/ou chicons).
+
+notes:
+  - "Le temps de préparation n'est pas donné par la source : environ 20 min, plus 30 min de repos de la fondue au frais."
+  - "Si le dessous reste pâle, prolonger la cuisson de quelques minutes à 180 °C."
+
+questions:
+  - Nombre de parts.
+  - Taille du moule utilisé.
+
+# à relire | à compléter | validée | testée
+statut: à relire
+transcrit_le: 2026-11-05

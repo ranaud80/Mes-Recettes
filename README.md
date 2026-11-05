@@ -9,6 +9,7 @@ Recettes familiales et favorites, numérisées dans un format ouvert et durable,
 <!-- INDEX:DEBUT -->
 | Recette | Catégorie | Auteur | Statut | Reste à faire |
 |---|---|---|---|---|
+| [Flamiche aux poireaux picarde](recettes/flamiche-poireaux/README.md) | Plat | Mme Seminet | À relire | 2 |
 | [Gâteau à l'ananas extra moelleux](recettes/gateau-ananas-moelleux/README.md) | Dessert | Amélie Martin | À relire | 2 |
 | [Gaufres (recette huile Lesieur)](recettes/gaufres-huile-lesieur/README.md) | Dessert | Maman | À compléter | 2 |
 | [Potage aux champignons](recettes/potage-champignons/README.md) | Soupe | Maman | À compléter | 1 |
